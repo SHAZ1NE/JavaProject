@@ -1,3 +1,3 @@
 # JavaProject
 
-Year 2 java assesed project
+Year 2 java assessed project
